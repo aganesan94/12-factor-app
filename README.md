@@ -125,7 +125,7 @@ Scale out via the process model
 - Keep development, staging, and production as similar as possible
 ---
 
-#### 11- LOGS
+#### 11- Logs
 *Treat logs as event streams*
 ##### Problem to Solve
 - Run a logs to a file, if container is killed there is no trace of logs
